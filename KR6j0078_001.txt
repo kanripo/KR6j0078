@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:33.608064
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:13
 #+TITLE: 佛頂尊勝心破地獄轉業障出三界祕密陀羅尼
 #+PROPERTY: CBETA_ID T18n0907
 #+PROPERTY: ID KR6j0078
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 907
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0078_T_000-0914c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0078_T_001-0914c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -14,9 +14,8 @@
 ¶
 ¶
 ¶
-No.907[cf.No.905]¶
-
- 佛頂尊勝心破地獄轉業障出三¶
+No. 907 [cf. No. 905]¶
+佛頂尊勝心破地獄轉業障出三¶
 界祕密陀羅尼¶
 ¶
 中天竺國三藏善無畏奉　詔譯¶
@@ -62,7 +61,7 @@ No.907[cf.No.905]¶
 阿字觀諦審分明。如日照空。即是了見佛性。¶
 所獲福無有比量。祕藏文句實不思議。只恐¶
 聲聞法師。小乘持律者。生疑不信反益其罪。¶
-譬如王有稚子偏最憐念庫藏珍寶傾竭不¶
+譬如王有稚子偏最憐念庫藏殄寶傾竭不¶
 惜。唯不與干將鏌鎁恐不解運用故傷其體。¶
 是故如來密傳大菩薩。不與聲聞劣慧。已下¶
 三箇真言是三種悉地。成就法中立上中下¶
@@ -112,9 +111,9 @@ No.907[cf.No.905]¶
 　無量功德普莊嚴
 　同入總持諸善逝¶
 　願共有緣修學者
-　安住無上清淨海
+　安住無上清淨海」
 #+END_VERSE
-」¶
+¶
 佛頂尊勝心破地獄法一卷(以後雜要文也)¶
 ¶
 
